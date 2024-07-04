@@ -53,7 +53,7 @@
         animation:play()
 
         local function scrollbird2(self, event)
-            self.y = self.y + 12
+            self.y = self.y + 0.12
             -- if self.y < 0 then
             --     self.y = 10
             -- end
