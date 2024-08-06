@@ -5,13 +5,12 @@
 
 settings =
 {
-	orientation =
-	{
-		-- Supported values for orientation:
-		-- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
-		default = "portrait",
-		supported = { "portrait", },
-	},
+	orientation = {
+        -- Supported values for orientation:
+        -- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
+        default = "landscapeRight", -- Default orientation
+        supported = { "landscapeRight", "landscapeLeft" } -- Supported orientations
+    },
 
 	--
 	-- Android section
