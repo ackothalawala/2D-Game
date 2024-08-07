@@ -13,7 +13,7 @@ local function Helicopter()
     }
 
 
-    local mysheet = graphics.newImageSheet("./Assets/heli.png", sheetData)
+    local mysheet = graphics.newImageSheet("./Assets/Helicopter/heli.png", sheetData)
     
     
     local sequenceData ={

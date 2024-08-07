@@ -11,7 +11,3 @@ Birds()
 local Helicopter = require("Programs.Allied.Helicopter")
 Helicopter()
 
-
-
-
-

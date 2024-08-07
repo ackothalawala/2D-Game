@@ -1,6 +1,6 @@
 local function Vehicles()
     
-    local car1 = display.newImage("./Assets/car.png")
+    local car1 = display.newImage("./Assets/Cars/car.png")
     car1.x = display.contentCenterX - 160
     car1.y = display.contentCenterY -800
     car1.width = 70

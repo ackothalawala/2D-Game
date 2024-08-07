@@ -12,7 +12,7 @@
     
     }
     
-    local mysheet = graphics.newImageSheet("./Assets/bird1.png", sheetData)
+    local mysheet = graphics.newImageSheet("./Assets/Birds/bird1.png", sheetData)
     
     
     local sequenceData ={
@@ -51,7 +51,7 @@
 
     }
     
-    local mysheet = graphics.newImageSheet("./Assets/bird2.png", sheetData)
+    local mysheet = graphics.newImageSheet("./Assets/Birds/bird2.png", sheetData)
     
     
     local sequenceData ={

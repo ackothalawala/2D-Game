@@ -1,7 +1,7 @@
 
 local function Backgrounds()
 
-local bg1 = display.newImage("./Assets/bg3.png")
+local bg1 = display.newImage("./Assets/Bg/bg3.png")
 
 bg1.x = display.contentCenterX 
 bg1.y = display.contentCenterY 
@@ -24,7 +24,7 @@ local function scrollbg(self, event)
 
 
     
-local bg2 = display.newImage("./Assets/bg3.png")
+local bg2 = display.newImage("./Assets/Bg/bg3.png")
 bg2.x = display.contentCenterX + 2980
 bg2.y = display.contentCenterY  
 
