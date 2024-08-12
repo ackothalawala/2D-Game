@@ -11,3 +11,5 @@ Birds()
 local Helicopter = require("Programs.Allied.Helicopter")
 Helicopter()
 
+local Girl = require("Programs.Allied.Girl")
+Girl()
