@@ -1,7 +1,6 @@
 local function Helicopter()
 
-    local physics = require("physics")
-    physics.start()
+ 
 
     local sheetData = {
         width = 85,
@@ -28,9 +27,7 @@ local function Helicopter()
         animation:play()
     
 
-physics.addBody(animation, "dynamic",{density = 1, friction = 0.3, bounce = 0.2, radius = 30})
 
-physics.setGravity(0, 0)
 
 
 end
